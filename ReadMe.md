@@ -74,13 +74,9 @@
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prathamesh424&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prathamesh424&show_icons=true&theme=github_dark&hide_border=true&custom_title=Prathamesh424%27s%20GitHub%20Stats" alt="Prathamesh424's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh424&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh424&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
-</p>
-
 ---
 
 ### Badges
