@@ -68,7 +68,6 @@
 - **i2i COEP (Winner):** Secured 2nd rank in the HHH sector organized by COEP.
 - **Namespace HackHazards:** Selected among the Top 50 teams in the blockchain category.
 - **Google Cloud Skills Arcade:** Platinum Tier recognition for completing advanced cloud computing labs.
-
 ---
 
 ### GitHub Activity & Stats
@@ -77,7 +76,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=prathamesh424&show_icons=true&theme=github_dark&hide_border=true&custom_title=Prathamesh424%27s%20GitHub%20Stats" alt="Prathamesh424's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh424&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
----
 
 ### Badges
 
@@ -86,8 +84,6 @@
     <img src="https://holopin.me/prathamesh424" alt="Holopin Badges" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prathamesh424&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
